@@ -2,16 +2,6 @@
 
 verified address - ``` 0xa9057d3BDFfCf0E969c34ff69E120C40336D1375 ```
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-# Coins - CNS 
 
 - A Fungible Token developed using Hardhat development environment. 
 - Implemented using ERC20 (Ethereum Request Comments 20) interface.
@@ -25,7 +15,7 @@ npx hardhat node
 
 1. clone the project 
     ```  
-    
+    https://github.com/Gagan2095/ERC20-token.git
     ```
     
 2. install the dependencies
