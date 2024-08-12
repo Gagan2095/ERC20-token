@@ -6,7 +6,7 @@ pragma solidity ^0.8.19;
 /// @notice An fungible token created using ERC20 tokens standard
 contract Token {
 
-    uint256 private totalSupply;
+    uint256 public totalSupply;
     mapping(address => uint256) public balanceOf;
     mapping(address => mapping(address=>uint256)) public allowance;
     string public name;
