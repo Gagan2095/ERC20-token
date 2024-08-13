@@ -1,7 +1,7 @@
-# Sample Hardhat Project
 
 verified address - ``` 0xa9057d3BDFfCf0E969c34ff69E120C40336D1375 ```
 
+# Coins - CNS 
 
 - A Fungible Token developed using Hardhat development environment. 
 - Implemented using ERC20 (Ethereum Request Comments 20) interface.
@@ -48,6 +48,3 @@ or you can directly verify the Contract by running:
 
 - To see all the variables run: ``` npx hardhat vars setup ```
 - To set the varaibles run: ``` npx hardhat vars set <varaible-name> ``` 
-
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
