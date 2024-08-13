@@ -16,7 +16,7 @@ verified address - ``` 0xa9057d3BDFfCf0E969c34ff69E120C40336D1375 ```
 
 1. clone the project 
     ```  
-    
+    https://github.com/Gagan2095/ERC20-token.git
     ```
     
 2. install the dependencies
